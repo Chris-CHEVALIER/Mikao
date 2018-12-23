@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Stress",
+        "care": ["Les yeux", "Les tempes"],
+        "description": "caca mou"
+    },
+    {
+        "id": 2,
+        "name": "Rhume",
+        "care": ["Les oreilles", "Les yeux"]
+    },
+    {
+        "id": 3,
+        "name": "Dépression",
+        "description": "Apporte du calme et clarifie les pensées.",
+        "care": ["les tempes"]
+    },
+    {
+        "id": 4,
+        "name": "Tensions",
+        "care": ["l'arrière de la tête "]
+    },
+    {
+        "id": 5,
+        "name": "Test3",
+        "care": ["les tempes"]
+    },
+    {
+        "id": 6,
+        "name": "Test1",
+        "care": ["la gorge"]
+    },
+    {
+        "id": 7,
+        "name": "Test2",
+        "care": ["le coeur"]
+    }
+]
